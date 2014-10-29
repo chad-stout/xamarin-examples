@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0192a47c08d8a4ea" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Android\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomRenderer.Forms\App.cs">
     <Files>
-      <File FileName="Android\MainActivity.cs" Line="4" Column="4" />
+      <File FileName="CustomRenderer.Forms\App.cs" Line="7" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
