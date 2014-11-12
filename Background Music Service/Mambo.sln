@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mambo", "Mambo\Mambo.csproj", "{B69A173F-4282-4AB2-A1B5-E6A0A8E44206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mambo.Android", "Android\Mambo.Android.csproj", "{D4DCE933-D89C-436A-B9BB-361B6AB53BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69A173F-4282-4AB2-A1B5-E6A0A8E44206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69A173F-4282-4AB2-A1B5-E6A0A8E44206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69A173F-4282-4AB2-A1B5-E6A0A8E44206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69A173F-4282-4AB2-A1B5-E6A0A8E44206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DCE933-D89C-436A-B9BB-361B6AB53BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DCE933-D89C-436A-B9BB-361B6AB53BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DCE933-D89C-436A-B9BB-361B6AB53BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DCE933-D89C-436A-B9BB-361B6AB53BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\Mambo.Android.csproj
+	EndGlobalSection
+EndGlobal
