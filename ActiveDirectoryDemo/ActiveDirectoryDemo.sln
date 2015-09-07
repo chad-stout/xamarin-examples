@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryDemo", "ActiveDirectoryDemo\ActiveDirectoryDemo.csproj", "{FA8C1BC8-9BE6-453C-9399-59F332B6CB73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryDemo.Droid", "Droid\ActiveDirectoryDemo.Droid.csproj", "{7D02A982-C50D-4831-A121-3A61315BB037}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryDemo.Android", "Droid\ActiveDirectoryDemo.Android.csproj", "{7D02A982-C50D-4831-A121-3A61315BB037}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryDemo.UITests", "UITests\ActiveDirectoryDemo.UITests.csproj", "{AB64506C-6B8B-4B44-98CC-751CBF277FC6}"
 EndProject
